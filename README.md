@@ -20,6 +20,7 @@ Topics
 | [0136-single-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
 | [1480-running-sum-of-1d-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -54,4 +55,8 @@ Topics
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
