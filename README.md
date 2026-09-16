@@ -19,6 +19,7 @@ Topics
 | [0001-two-sum](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
+| [1480-running-sum-of-1d-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -49,4 +50,8 @@ Topics
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
