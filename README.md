@@ -77,8 +77,17 @@ Topics
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
