@@ -32,6 +32,7 @@ Topics
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,4 +95,5 @@ Topics
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0392-is-subsequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
