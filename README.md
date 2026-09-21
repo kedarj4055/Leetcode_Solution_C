@@ -19,6 +19,7 @@ Topics
 | [0001-two-sum](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1480-running-sum-of-1d-array) |
@@ -30,6 +31,7 @@ Topics
 | ------- |
 | [0001-two-sum](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
 | ------- |
@@ -47,6 +49,7 @@ Topics
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
@@ -100,4 +103,8 @@ Topics
 | ------- |
 | [0392-is-subsequence](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
