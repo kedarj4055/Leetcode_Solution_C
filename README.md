@@ -19,6 +19,7 @@ Topics
 | [0001-two-sum](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1672-richest-customer-wealth) |
