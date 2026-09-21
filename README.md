@@ -24,6 +24,7 @@ Topics
 | [1480-running-sum-of-1d-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1929-concatenation-of-array) |
+| [3524-find-x-value-of-array-i](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Topics
 | [0002-add-two-numbers](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0509-fibonacci-number) |
+| [3524-find-x-value-of-array-i](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Topics
 | [0070-climbing-stairs](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0509-fibonacci-number) |
+| [3524-find-x-value-of-array-i](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3524-find-x-value-of-array-i) |
 ## Memoization
 |  |
 | ------- |
