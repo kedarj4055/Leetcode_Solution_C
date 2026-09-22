@@ -88,6 +88,7 @@ Topics
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0509-fibonacci-number) |
@@ -100,11 +101,13 @@ Topics
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
@@ -119,4 +122,8 @@ Topics
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
