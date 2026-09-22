@@ -26,6 +26,7 @@ Topics
 | [1672-richest-customer-wealth](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1929-concatenation-of-array) |
 | [3524-find-x-value-of-array-i](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Topics
 | [0070-climbing-stairs](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3525-find-x-value-of-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -107,4 +109,8 @@ Topics
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
