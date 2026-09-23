@@ -106,6 +106,7 @@ Topics
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Topics
 | [0013-roman-to-integer](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
 |  |
