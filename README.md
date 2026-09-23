@@ -32,6 +32,7 @@ Topics
 | ------- |
 | [0001-two-sum](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
@@ -76,6 +77,7 @@ Topics
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3524-find-x-value-of-array-i) |
@@ -108,6 +110,7 @@ Topics
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0392-is-subsequence](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
