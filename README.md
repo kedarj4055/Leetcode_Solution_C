@@ -74,6 +74,7 @@ Topics
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Topics
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
