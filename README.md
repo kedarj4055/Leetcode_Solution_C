@@ -19,6 +19,7 @@ Topics
 | [0001-two-sum](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
@@ -111,6 +112,7 @@ Topics
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0027-remove-element) |
 | [0392-is-subsequence](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1768-merge-strings-alternately) |
 ## String
