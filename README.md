@@ -84,6 +84,7 @@ Topics
 | [0002-add-two-numbers](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -174,6 +175,7 @@ Topics
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0069-sqrtx) |
 ## String Matching
 |  |
 | ------- |
@@ -206,4 +208,8 @@ Topics
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0100-same-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
