@@ -21,6 +21,7 @@ Topics
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -84,6 +85,7 @@ Topics
 | [0002-add-two-numbers](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0509-fibonacci-number) |
