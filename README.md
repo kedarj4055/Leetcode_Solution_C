@@ -43,11 +43,13 @@ Topics
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
@@ -86,6 +88,7 @@ Topics
 | [0007-reverse-integer](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0509-fibonacci-number) |
@@ -130,6 +133,7 @@ Topics
 | [0020-valid-parentheses](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1071-greatest-common-divisor-of-strings) |
