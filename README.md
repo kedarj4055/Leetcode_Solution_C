@@ -171,6 +171,7 @@ Topics
 | ------- |
 | [0020-valid-parentheses](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -214,12 +215,14 @@ Topics
 | [0094-binary-tree-inorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -231,6 +234,7 @@ Topics
 | [0094-binary-tree-inorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Newton's Method
 |  |
 | ------- |
