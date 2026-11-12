@@ -100,6 +100,7 @@ Topics
 | [0067-add-binary](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0171-excel-sheet-column-number) |
 | [0509-fibonacci-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3524-find-x-value-of-array-i](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3524-find-x-value-of-array-i) |
@@ -148,6 +149,7 @@ Topics
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1021-remove-outermost-parentheses) |
