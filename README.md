@@ -57,6 +57,7 @@ Topics
 | [0067-add-binary](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Topics
 | [0069-sqrtx](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3524-find-x-value-of-array-i](https://github.com/kedarj4055/Leetcode_Solution/tree/master/3524-find-x-value-of-array-i) |
@@ -112,6 +114,7 @@ Topics
 | ------- |
 | [0002-add-two-numbers](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
