@@ -188,6 +188,7 @@ Topics
 | [0020-valid-parentheses](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kedarj4055/Leetcode_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -236,6 +237,7 @@ Topics
 | [0111-minimum-depth-of-binary-tree](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -246,6 +248,7 @@ Topics
 | [0111-minimum-depth-of-binary-tree](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -264,6 +267,7 @@ Topics
 | [0111-minimum-depth-of-binary-tree](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kedarj4055/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Newton's Method
 |  |
 | ------- |
